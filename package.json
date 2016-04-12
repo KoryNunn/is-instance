@@ -1,6 +1,6 @@
 {
   "name": "is-instance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check if a value is an instance. (typeof object or function)",
   "main": "index.js",
   "scripts": {
