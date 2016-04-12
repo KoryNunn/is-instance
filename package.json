@@ -1,11 +1,19 @@
 {
   "name": "is-instance",
   "version": "1.0.0",
-  "description": "",
+  "description": "check if a value is an instance. (typeof object or function)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/is-instance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/is-instance/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/is-instance#readme"
 }
